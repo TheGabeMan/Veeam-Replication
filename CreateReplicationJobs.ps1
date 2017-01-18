@@ -1,4 +1,4 @@
-# Reading a CSV with VMs that needs to be replicated
+# Reading a CSV with VMs that need to be replicated
 # List contains VMNaam, vCenterNaam (vCenter as described in VEEAM)
 # Authors: Annelies Maex & Gabrie van Zanten & Joren De Spaey
 # Annelies linkedin: https://be.linkedin.com/in/anneliesmaex

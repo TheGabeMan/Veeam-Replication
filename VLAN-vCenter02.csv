@@ -1,5 +1,5 @@
 SourcePortGroup, TargetPortGroup
 VLAN 100,pgDMZ
-VLAN 111,pgBDC2
+VLAN 111,pgBDCQ
 VLAN 112,pgBACKUP
 VLAN 113,pgPROD

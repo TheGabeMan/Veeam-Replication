@@ -1,6 +1,6 @@
 SourcePortGroup, TargetPortGroup
 VLAN 100,pgDMZ
-VLAN 101,pgBDC
+VLAN 101,pgBDCF
 VLAN 102,pgWINDOWS
 VLAN 103,pgWEB
 VLAN 104,pgMAIL
